@@ -3,8 +3,8 @@
 export const mintText = [
   { label: "wl", mintText: "Connect your Whitelisted Wallet to mint NFT @ 0.025 SOL", buttonLabel: "Mint now!", header: "Whitelist Mint" },
   { label: "early", mintText: "Grab our Early Bird rate, only on day-one! Mint NFT @ 0.0325 SOL", buttonLabel: "Mint now!", header: "Early Bird Mint" },
-  { label: "nft", mintText: "Holding Memion NFT in your Wallet? Mint extra @ 0.05 SOL", buttonLabel: "Mint now!", header: "NFT Holder Mint" },
-  { label: "token", mintText: "Holding $SOLMEME Tokens in your Wallet? Mint extra @ 0.05 SOL", buttonLabel: "Mint now!", header: "Token Holder Mint" },
+  { label: "nft", mintText: "Holding Memion NFT in your Wallet? Mint extra NFT @ 0.05 SOL", buttonLabel: "Mint now!", header: "NFT Holder Mint" },
+  { label: "token", mintText: "Holding $SOLMEME Tokens in your Wallet? Mint an NFT @ 0.05 SOL", buttonLabel: "Mint now!", header: "Token Holder Mint" },
   { label: "public", mintText: "Everyone else gets a chance to mint one NFT @ 0.075 SOL", buttonLabel: "Mint now!", header: "General Public Mint" },
   { label: "default", mintText: "default", buttonLabel: "Mint now!", header: "Default"}
 ];
