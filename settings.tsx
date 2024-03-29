@@ -6,7 +6,6 @@ export const mintText = [
   { label: "nft", mintText: "Holding Memion NFT in your Wallet? Mint extra NFT @ 0.05 SOL", buttonLabel: "Mint now!", header: "NFT Holder Mint" },
   { label: "token", mintText: "Holding $SOLMEME Tokens in your Wallet? Mint an NFT @ 0.05 SOL", buttonLabel: "Mint now!", header: "Token Holder Mint" },
   { label: "public", mintText: "Everyone else gets a chance to mint one NFT @ 0.075 SOL", buttonLabel: "Mint now!", header: "General Public Mint" },
-  { label: "default", mintText: "default", buttonLabel: "Mint now!", header: "Default"}
 ];
 
 //header image in the ui. replace with your own
